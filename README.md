@@ -24,8 +24,8 @@ Descripción de la aplicación: Esta aplicación de Streamlit proporciona estad�
 
 Contribuidores
 
-[Santiago Fierro](https://github.com/santiFie)
-Manuel Dias Lourenco
-Ramiro Milillo
+-[Santiago Fierro](https://github.com/santiFie)
+-Manuel Dias Lourenco
+-Ramiro Milillo
 
 Licencia Este proyecto está licenciado bajo la licencia GNU GPL v3. Consulta el archivo LICENSE.md para más información.
