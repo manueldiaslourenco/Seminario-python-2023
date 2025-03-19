@@ -1,0 +1,23 @@
+[
+    {
+        "Alias": "martin",
+        "Nombre": "martin",
+        "Edad": "22",
+        "Genero": "Masculino",
+        "Imagen": "4.png"
+    },
+    {
+        "Alias": "juan",
+        "Nombre": "juancruz",
+        "Edad": "44",
+        "Genero": "Masculino",
+        "Imagen": "1.png"
+    },
+    {
+        "Alias": "jose",
+        "Nombre": "josefina",
+        "Edad": "33",
+        "Genero": "Femenino",
+        "Imagen": "1.png"
+    }
+]

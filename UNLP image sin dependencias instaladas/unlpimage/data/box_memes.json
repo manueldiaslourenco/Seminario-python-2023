@@ -1,0 +1,83 @@
+[
+    {
+        "image": "winnie pooh-2-box.jpg",
+        "name": "Some description",
+        "text_boxes": [
+            {
+                "top_left_x": 205,
+                "top_left_y": 5,
+                "bottom_right_x": 395,
+                "bottom_right_y": 195
+            },
+            {
+                "top_left_x": 205,
+                "top_left_y": 205,
+                "bottom_right_x": 395,
+                "bottom_right_y": 395
+            }
+        ]
+    }
+    ,
+    {
+        "image": "plantilla4-1-box.jpg",
+        "name": "Some description",
+        "text_boxes": [
+            {
+                "top_left_x": 165,
+                "top_left_y": 20,
+                "bottom_right_x": 381,
+                "bottom_right_y": 112
+            }
+        ]
+    }
+    ,
+    {
+        "image": "plantilla2-2-box.jpg",
+        "name": "Some description",
+        "text_boxes": [
+            {
+                "top_left_x": 5,
+                "top_left_y": 5,
+                "bottom_right_x": 198,
+                "bottom_right_y": 195
+            },
+            {
+                "top_left_x": 5,
+                "top_left_y": 205,
+                "bottom_right_x": 198,
+                "bottom_right_y": 395
+            }
+        ]
+    }
+    ,
+    {
+        "image": "plantilla3-4-box.jpg",
+        "name": "Some description",
+        "text_boxes": [
+            {
+                "top_left_x": 5,
+                "top_left_y": 3,
+                "bottom_right_x": 195,
+                "bottom_right_y": 97
+            },
+            {
+                "top_left_x": 5,
+                "top_left_y": 103,
+                "bottom_right_x": 195,
+                "bottom_right_y": 197
+            },
+            {
+                "top_left_x": 5,
+                "top_left_y": 203,
+                "bottom_right_x": 195,
+                "bottom_right_y": 297
+            },
+            {
+                "top_left_x": 5,
+                "top_left_y": 303,
+                "bottom_right_x": 195,
+                "bottom_right_y": 397
+            }
+        ]
+    }
+]
