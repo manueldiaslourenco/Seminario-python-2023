@@ -67,7 +67,7 @@ Si deseas detener la ejecución de la aplicación en la terminal, simplemente pr
 Contribuidores
 
 - [Santiago Fierro](https://github.com/santiFie)
-- Manuel Dias Lourenco
+- [Manuel Dias Lourenco](https://github.com/manueldiaslourenco)
 - Ramiro Milillo
 
 
