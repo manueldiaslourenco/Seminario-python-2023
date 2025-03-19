@@ -1,5 +1,4 @@
-UNLPImage
-Este es un proyecto que tiene como objetivo desarrollar una aplicación de escritorio denominada UNLPImage. Esta aplicación permitirá:
+UNLPImage es un proyecto que tiene como objetivo desarrollar una aplicación de escritorio. Esta aplicación permitirá:
 
 - Crear un collage con imágenes disponibles en nuestra computadora.
 - Generar un meme a través de la combinación de imágenes con texto y emojis.
@@ -67,7 +66,7 @@ Si deseas detener la ejecución de la aplicación en la terminal, simplemente pr
 
 Contribuidores
 
-- Santiago Fierro
+- [Santiago Fierro](https://github.com/santiFie)
 - Manuel Dias Lourenco
 - Ramiro Milillo
 
