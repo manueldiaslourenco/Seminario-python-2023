@@ -18,7 +18,7 @@ Además de los collages, UNLPImage te permite generar memes. Puedes seleccionar 
 Contribuidores
 
 -[Santiago Fierro](https://github.com/santiFie)
--Manuel Dias Lourenco
+-[Manuel Dias Lourenco](https://github.com/manueldiaslourenco)
 -Ramiro Milillo
 
 Licencia Este proyecto está licenciado bajo la licencia GNU GPL v3. Consulta el archivo LICENSE.md para más información.
