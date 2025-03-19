@@ -1,6 +1,6 @@
 # Seminario-python-2023
 
-UNLPImage Este es un proyecto que tiene como objetivo desarrollar una aplicación de escritorio denominada UNLPImage. Esta aplicación permitirá:
+Este es un proyecto que tiene como objetivo desarrollar una aplicación de escritorio denominada UNLPImage. Esta aplicación permitirá:
 
 Crear un collage con imágenes disponibles en nuestra computadora.
 Generar un meme a través de la combinación de imágenes con texto y emojis.
